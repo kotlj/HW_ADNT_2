@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\HW_ADNT_2\HW_ADNT_2\bin\Debug\HW_ADNT_2.exe.config
+C:\Users\Admin\source\repos\HW_ADNT_2\HW_ADNT_2\bin\Debug\HW_ADNT_2.exe
+C:\Users\Admin\source\repos\HW_ADNT_2\HW_ADNT_2\bin\Debug\HW_ADNT_2.pdb
+C:\Users\Admin\source\repos\HW_ADNT_2\HW_ADNT_2\obj\Debug\HW_ADNT_2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HW_ADNT_2\HW_ADNT_2\obj\Debug\HW_ADNT_2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HW_ADNT_2\HW_ADNT_2\obj\Debug\HW_ADNT_2.exe
+C:\Users\Admin\source\repos\HW_ADNT_2\HW_ADNT_2\obj\Debug\HW_ADNT_2.pdb
