@@ -220,7 +220,7 @@ namespace HW_ADNT_2
                         Console.WriteLine("Enter number of days:\n");
                         int days = Convert.ToInt32(Console.ReadLine());
                         DateTime dateTime = DateTime.Now;
-                        dateTime = dateTime.AddDays(-9);
+                        dateTime = dateTime.AddDays(-days);
                         cmd = new SqlCommand($"SELECT Supplier FROM Products\r\nWHERE Last_supply < '{dateTime.Year}-{dateTime.Month}-{dateTime.Day}'", conn);
                         using (cmd)
                         {
